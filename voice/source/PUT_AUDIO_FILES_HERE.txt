@@ -1,0 +1,2 @@
+把聲音本人明確同意的 consent 錄音放成 consent.wav，聲音樣本放成 sample.wav。
+不要使用未取得本人明確同意的真人聲音。

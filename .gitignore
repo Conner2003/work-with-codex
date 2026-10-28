@@ -1,0 +1,41 @@
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+node_modules/
+.venv/
+__pycache__/
+bin/
+obj/
+build/
+dist/# Credentials
+.env
+.env.*
+!.env.example
+/env_backup_*.txt
+*.pem
+*.key
+
+# Visual Studio local files
+.vs/
+*.wsuo
+*.sqlite
+
+# Personal memory data
+/memory/*.json
+/memory/archive/
+/memory2/data/*
+!/memory2/data/.gitkeep
+
+# Private voice files
+/voice/fish-voice.json
+/voice/source/*
+!/voice/source/PUT_AUDIO_FILES_HERE.txt
+/Guide/Original sources/
+/voice/sample-transcript.txt
+*.wav
+*.mp3
+
+# Personal character data - review before publishing
+/personality/character.md

@@ -1,0 +1,9 @@
+# Memory System 2.0 contains private conversation data
+memory2/data/
+
+# Existing private files
+.env
+voice/source/
+voice/fish-voice.json
+voice/fish-test.wav
+node_modules/
